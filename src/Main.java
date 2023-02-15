@@ -27,7 +27,7 @@ public class Main {
 //        System.out.println(Arrays.toString(arr));
 
         int total = 0;
-        for (int payout: arr) {
+        for (int payout : arr) {
             total += payout;
         }
 
@@ -59,7 +59,7 @@ public class Main {
         int[] arr = generateRandomArray();
 
         double total = 0;
-        for (int payout: arr) {
+        for (int payout : arr) {
             total += payout;
         }
 
